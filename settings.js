@@ -69,7 +69,7 @@ global.websitex = "-" //ur website to be displayed
 global.botscript = '-' //script link
 global.reactmoji = "🤖" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "Anu Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🗿🗿🗿🗿 " //ur sticker watermark packname
+global.packname = "Anu Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🗿🗿 " //ur sticker watermark packname
 global.author = "Gesha" //ur sticker watermark author
 
 //Bot theme media
